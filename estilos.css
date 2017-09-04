@@ -1,0 +1,62 @@
+.ex {
+ text-align: center;
+ font-family: verdana;
+ color: red;
+ font-size: 12px;
+ line-height: 2;
+ border: 1px black solid;
+ margin-left: 400px;
+ margin-right: 400px;
+}
+.titulo {
+ text-align: center;
+ font-family: arial;
+ font-size: 23pt;
+ border-bottom: 1px black solid;
+}
+.linha {
+	color: rgb(79,129,189);
+	font-family: arial;
+ font-size: 12pt;
+}
+.pos {
+	color: rgb(0,176,80);
+	font-family: arial;
+ font-size: 12pt;
+}
+.mes {
+	color: rgb(255,192,0);
+	font-family: arial;
+ font-size: 12pt;
+}
+.dou {
+	color: rgb(255,0,0);
+	font-family: arial;
+ font-size: 12pt;
+}
+.times {
+	color: rgb(128,100,162);
+	font-family: times new roman;
+ font-size: 12pt;
+}
+.borda {
+	border: 1px black solid;
+ margin-left: 400px;
+margin-right: 400px; 
+}
+.lado {
+ float: left;
+}
+.gth {
+	color: rgb(0,176,80);
+	font-family: arial;
+ font-size: 12pt;
+}
+.doul {
+	color: rgb(255,0,0);
+	font-family: arial;
+ font-size: 12pt;
+}
+.body {
+	background-color: grey;
+}
